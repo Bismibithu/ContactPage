@@ -1,0 +1,53 @@
+input{
+    width: 578px;
+    margin-bottom: 10px;
+    background-color: rgb(209, 209, 245);
+    opacity: 95%;
+    border: 0px;
+}
+textarea{
+    width: 579px;
+    background-color: rgb(209, 209, 245);
+    opacity: 95%;border: 0px;
+}
+.box2 p{
+    margin-top: -10px;
+}
+.box2 h2{
+    margin-top: -5px;
+}
+.box1 h5{
+    margin-top: -4px;
+    text-align: center;
+}
+.box1 p{
+    margin-top: -18px;
+    text-align: center;
+    
+}
+button{
+    background-color: rgb(3, 3, 79);
+    color: white;
+    margin-top: -10px;
+}
+.mainbox{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    border: 15px solid rgb(221, 245, 245);
+    
+}
+img{
+    margin-left: 60px;
+}
+.border{
+    border-left: 3px solid rgb(48, 58, 48);
+    height: 200px;
+    margin-top: 25px;
+    
+    opacity: 50%;
+    
+}
+.mainbox{
+    width: 850px;
+}
